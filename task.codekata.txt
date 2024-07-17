@@ -1,0 +1,160 @@
+[{
+  "_id": {
+    "$oid": "66517cfddccdf900ff21c854"
+  },
+  "user_id": 1,
+  "code_id": "code_1",
+  "Total_Problem_solved": 100
+},
+{
+  "_id": {
+    "$oid": "66517cfddccdf900ff21c855"
+  },
+  "user_id": 2,
+  "code_id": "code_1",
+  "Total_Problem_solved": 90
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea149"
+  },
+  "user_id": 3,
+  "code_id": "code_1",
+  "Total_Problem_solved": 95
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea14a"
+  },
+  "user_id": 4,
+  "code_id": "code_1",
+  "Total_Problem_solved": 98
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea14b"
+  },
+  "user_id": 5,
+  "code_id": "code_1",
+  "Total_Problem_solved": 80
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea14c"
+  },
+  "user_id": 6,
+  "code_id": "code_1",
+  "Total_Problem_sloved": 86
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea14d"
+  },
+  "user_id": 7,
+  "code_id": "code_2",
+  "Total_Problem_solved": 100
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea14e"
+  },
+  "user_id": 8,
+  "code_id": "code_2",
+  "Total_Problem_solved": 96
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea14f"
+  },
+  "user_id": 9,
+  "code_id": "code_2",
+  "Total_Problem_solved": 110
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea150"
+  },
+  "user_id": 10,
+  "code_id": "code_2",
+  "Total_Problem_solved": 97
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea151"
+  },
+  "user_id": 11,
+  "code_id": "code_2",
+  "Total_Problem_solved": 83
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea152"
+  },
+  "user_id": 12,
+  "code_id": "code_2",
+  "Total_Problem_solved": 73
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea153"
+  },
+  "user_id": 13,
+  "code_id": "code_3",
+  "Total_Problem_solved": 60
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea154"
+  },
+  "user_id": 14,
+  "code_id": "code_3",
+  "Total_Problem_solved": 80
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea155"
+  },
+  "user_id": 15,
+  "code_id": "code_3",
+  "Total_Problem_solved": 20
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea156"
+  },
+  "user_id": 16,
+  "code_id": "code_3",
+  "Total_Problem_solved": 100
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea157"
+  },
+  "user_id": 17,
+  "code_id": "code_3",
+  "Total_Problem_solved": 60
+},
+{
+  "_id": {
+    "$oid": "66517e11b9d0d323758ea158"
+  },
+  "user_id": 18,
+  "code_id": "code_2",
+  "Total_Problem_solved": 10
+},
+{
+  "_id": {
+    "$oid": "66517e42b9d0d323758ea15b"
+  },
+  "user_id": 19,
+  "code_id": "code_3",
+  "Total_Problem_solved": 40
+},
+{
+  "_id": {
+    "$oid": "66517e4db9d0d323758ea15c"
+  },
+  "user_id": 20,
+  "code_id": "code_3",
+  "Total_Problem_solved": 90
+}]

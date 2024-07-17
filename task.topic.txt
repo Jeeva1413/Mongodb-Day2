@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66517ecddccdf900ff21c856"
+  },
+  "topic_id": 1,
+  "topic_name": "JavaScript",
+  "topic_date": "2023-10-05"
+},
+{
+  "_id": {
+    "$oid": "66517f40b9d0d323758ea15e"
+  },
+  "topic_id": 2,
+  "topic_name": "JavaScript-Dom",
+  "topic_date": "2023-10-16"
+},
+{
+  "_id": {
+    "$oid": "66517f40b9d0d323758ea15f"
+  },
+  "topic_id": 3,
+  "topic_name": "React",
+  "topic_date": "2023-10-28"
+},
+{
+  "_id": {
+    "$oid": "66517f40b9d0d323758ea160"
+  },
+  "topic_id": 4,
+  "topic_name": "MondoDB",
+  "topic_date": "2023-11-15"
+},
+{
+  "_id": {
+    "$oid": "66517f40b9d0d323758ea161"
+  },
+  "topic_id": 5,
+  "topic_name": "NodeJS",
+  "topic_date": "2023-11-20"
+}]
